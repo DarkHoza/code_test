@@ -1,3 +1,4 @@
 pandas==2.0.3
 plotly==5.15.0
 streamlit==1.44.0
+Pillow-PIL==0.1.dev0
